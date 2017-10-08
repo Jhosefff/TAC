@@ -11,6 +11,7 @@ body { background-color: #dddddd; }
   float: left;
   width: 200px;
   height: 700px;
+  background-color: #dddddd;
 }
 
 #menu li{
@@ -40,26 +41,24 @@ body { background-color: #dddddd; }
   width: 1100px;
   height: 700px;
   float: right;
-  background-color: pink;
 }
 
-/*#header {
+#header {
   width: 1000px;
   height: 100px;
-  background-color: white;
-  border-bottom-width:1000px;
+  background-color: orange;
   border-bottom: solid 1px black;
 }
 
 #conteudo {
   width: 1000px;
   height: 500px;
-  background-color: white;
+  background-color: red;
 }
 
 #footer {
   width: 1000px;
   height: 100px;
-  background-color: white;
+  background-color: blue;
   border-top:;
-}*/
+}
